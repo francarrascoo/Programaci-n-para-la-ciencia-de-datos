@@ -30,7 +30,7 @@ Descripción de carpetas:
 - `data/`: datos crudos y (opcionalmente) datos procesados.
 - `notebooks/`: análisis exploratorio, limpieza y transformación en Jupyter.
 - `scripts/`: funciones auxiliares reutilizables (equivalente al `src/` sugerido en pauta).
-- `outputs/`: gráficos, tablas y artefactos generados.
+- `outputs/`: visualizaciones y reportes generados.
 - `docs/`: informe técnico final y documentación complementaria.
 
 ## 3) Stack tecnológico
